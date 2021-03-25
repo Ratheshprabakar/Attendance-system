@@ -44,3 +44,6 @@ To run this project,
 5) Change the directory to the teachers_site and run the application
 
 ``` python app.py```
+
+
+[Documentation Live Link](https://issuu.com/ratheshprabakar/docs/final_documentation__version_2.0_)
