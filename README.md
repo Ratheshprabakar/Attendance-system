@@ -26,7 +26,8 @@ To decrease the burden of taking the manual attendance everytime, I am working o
       - Send email to the students and parents regarding their attendance.
       - Email alert using flask_mail.
 
-To run this project,
+### **To run this project,**
+
 1) Clone this repository
 
 ```git clone https://github.com/Ratheshprabakar/Attendance-system```
@@ -46,4 +47,38 @@ To run this project,
 ``` python app.py```
 
 
+## Output
+
+
+**Student Addition**
+
+![image](https://user-images.githubusercontent.com/37381228/113325510-2e587c00-9336-11eb-847d-a4d567d38fe7.png)
+
+
+**Faculty Dashboard**
+
+![image](https://user-images.githubusercontent.com/37381228/113325570-44fed300-9336-11eb-81e5-9ee587dcf207.png)
+
+
+**Marking Attendance**
+
+![Screenshot (58)](https://user-images.githubusercontent.com/37381228/113324942-572c4180-9335-11eb-98fe-b0242ae626f5.png)
+
+
+![Screenshot (59)](https://user-images.githubusercontent.com/37381228/113324968-5f847c80-9335-11eb-9dc2-a531da3c1b07.png)
+
+
+**Report Panel**
+
+![image](https://user-images.githubusercontent.com/37381228/113325647-5811a300-9336-11eb-8862-33a239fd38c4.png)
+
+
+**Consolidated Report**
+
+![Screenshot (63)](https://user-images.githubusercontent.com/37381228/113324988-68754e00-9335-11eb-8c13-b726498accda.png)
+
+
+
+> 
 [Documentation Live Link](https://issuu.com/ratheshprabakar/docs/final_documentation__version_2.0_)
+
