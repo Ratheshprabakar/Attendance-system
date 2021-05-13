@@ -1,4 +1,4 @@
-# Attendance-system
+# Smart Attendance-system using Facial Recognition
 To decrease the burden of taking the manual attendance everytime, I am working on the project of smart attendance system (i.e)Automating the attendance process using facial recognition.
 
 
